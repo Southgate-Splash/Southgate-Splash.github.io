@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pete Suggitt
+title: Southgate Splash
 ---
 
 <header id="top" class="header">
