@@ -1,0 +1,14 @@
+name: Southgate Splash
+
+url: http://southgate-splash.com
+
+ghe: https://github.com/Southgate-Splash
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+    input: GFM
+    toc_levels: 1..3
+
+gems:
+  - jekyll-sitemap
