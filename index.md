@@ -9,7 +9,7 @@ title: Southgate Splash
         <h3 class="animated fadeInUp">A Real Estate Management Consultancy</h3>
         <br>
         <div>
-            <a href="#about" class="btn btn-dark btn-lg animated fadeInUp">Find out more</a>
+            <a href="mailto:info@southgate-splash.com" class="btn btn-dark btn-lg animated fadeInUp">Find out more</a>
         </div>
     </div>
 </header>
